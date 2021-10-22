@@ -1,0 +1,278 @@
+Solving for Pressure Differential and Head Loss
+
+
+
+Input Parameters:
+
+    Fluid Information
+        Ghetto
+        Density = 2938 kg/m^3
+        Dynamic Viscosity = 2938 Pa-s
+        Kinematic Viscosity = 1 m^2/s
+
+    Flow Information
+        Avg. Flow Speed = 60.000000 m/s
+        Flow Rate = 2859.83 m^3/s
+        Reynolds Number = 467.413164 Pa
+
+    The flow is laminar
+
+    Pipe Information
+        Material = Concrete
+        Length = 20.000000 m
+        Angle = 40.000000 degrees
+        Shape = Isosceles Triangle
+            Angle = 40.000000
+            Leg Length = 20.000000
+            Hydraulic Diameter = 7.790219
+
+Output Values: 
+
+    Pressure Differential = 60.000000 Pa
+    Head Loss = 467.413164 m
+Solving for Pipe Diameter
+
+
+
+Input Parameters:
+
+    Fluid Information
+        Methanol
+        Density = 791 kg/m^3
+        Dynamic Viscosity = 0.000598 Pa-s
+        Kinematic Viscosity = 7.56005e-07 m^2/s
+
+    Flow Information
+        Inlet Pressure = 2 Pa
+        Outlet Pressure = 4 Pa
+        Head Loss = 2.000000 m
+        Flow Rate = 4.000000 m^3/s
+
+    Pipe Information
+        Material = Commcercial Steel
+        Length = 4.000000 m
+        Angle = 5.000000 degrees
+Output Values: 
+
+    Pipe Diameter = 0.811572 m
+    Avg. Flow Speed = 11.245646 m/s
+    Reynolds Number = 12323974.810923
+
+    The flow is turbulent
+Solving for Pipe Diameter
+
+
+
+Input Parameters:
+
+    Fluid Information
+        Methanol
+        Density = 791 kg/m^3
+        Dynamic Viscosity = 0.000598 Pa-s
+        Kinematic Viscosity = 7.56005e-07 m^2/s
+
+    Flow Information
+        Inlet Pressure = 2 Pa
+        Outlet Pressure = 3 Pa
+        Head Loss = 2.000000 m
+        Flow Rate = 3.000000 m^3/s
+
+    Pipe Information
+        Material = Cast Iron
+        Length = 4.000000 m
+        Angle = 5.000000 degrees
+Output Values: 
+
+    Pipe Diameter = 0.885135 m
+    Avg. Flow Speed = 9.488908 m/s
+    Reynolds Number = 11313502.980314
+
+    The flow is turbulent
+Solving for Pressure Differential and Head Loss
+
+
+
+Input Parameters:
+
+    Fluid Information
+        SAE 30 Oil
+        Density = 917 kg/m^3
+        Dynamic Viscosity = 0.29 Pa-s
+        Kinematic Viscosity = 0.000316249 m^2/s
+
+    Flow Information
+        Avg. Flow Speed = 6.000000 m/s
+        Flow Rate = 2.96155 m^3/s
+        Reynolds Number = -15040.474992 Pa
+
+    The flow is laminar
+
+    Pipe Information
+        Material = Brass tubing
+        Length = 2.000000 m
+        Angle = 4.000000 degrees
+        Shape = Isosceles Triangle
+            Angle = 4.000000
+            Leg Length = 2.000000
+            Hydraulic Diameter = -0.792755
+
+Output Values: 
+
+    Pressure Differential = 6.000000 Pa
+    Head Loss = -15040.474992 m
+Solving for Pressure Differential and Head Loss
+
+
+
+Input Parameters:
+
+    Fluid Information
+        Water
+        Density = 998 kg/m^3
+        Dynamic Viscosity = 0.001 Pa-s
+        Kinematic Viscosity = 1.002e-06 m^2/s
+
+    Flow Information
+        Avg. Flow Speed = 60.000000 m/s
+        Flow Rate = 4257.15 m^3/s
+        Reynolds Number = 569142205.665425 Pa
+
+    The flow is turbulent
+
+    Pipe Information
+        Material = Brass tubing
+        Length = 20.000000 m
+        Angle = 40.000000 degrees
+        Shape = Ellipse
+            Major Diameter = 4.000000
+            Minor Diameter = 6.000000
+            Hydraulic Diameter = 9.504713
+
+Output Values: 
+
+    Pressure Differential = 60.000000 Pa
+    Head Loss = 569142205.665425 m
+Solving for Flow Rate
+
+
+
+Input Parameters:
+
+    Fluid Information
+        Benzone
+        Density = 881 kg/m^3
+        Dynamic Viscosity = 0.000651 Pa-s
+        Kinematic Viscosity = 7.38933e-07 m^2/s
+
+    Flow Information
+        Inlet Pressure = 40 Pa
+        Outlet Pressure = 30 Pa
+
+    Pipe Information
+        Material = Galvanized Iron
+        Length = 20.000000 m
+        Angle = 10.000000 degrees
+        Shape = Circle
+            Diameter = 2.000000
+            Hydraulic Diameter = 2.000000
+
+Output Values: 
+
+    Head Loss = -3.471806 m
+    Flow Rate = 10.839924 m^3/s
+    Avg. Flow Speed = 3.450455 m/s
+    Reynolds Number = 9339019.598962
+    The flow is turbulent
+Solving for Flow Rate
+
+
+
+Input Parameters:
+
+    Fluid Information
+        Oil
+        Density = 888 kg/m^3
+        Dynamic Viscosity = 0.8 Pa-s
+        Kinematic Viscosity = 0.000900901 m^2/s
+
+    Flow Information
+        Inlet Pressure = 7.453e+06 Pa
+        Outlet Pressure = 97000 Pa
+
+    Pipe Information
+        Material = Glass
+        Length = 40.000000 m
+        Angle = -15.000000 degrees
+        Shape = Circle
+            Diameter = 0.050000
+            Hydraulic Diameter = 0.050000
+
+Output Values: 
+
+    Head Loss = 855.072238 m
+    Flow Rate = 0.035695 m^3/s
+    Avg. Flow Speed = 0.908954 m/s
+    Reynolds Number = 50.446967
+    The flow is laminar
+Solving for Flow Rate
+
+
+
+Input Parameters:
+
+    Fluid Information
+        Oil
+        Density = 888 kg/m^3
+        Dynamic Viscosity = 0.8 Pa-s
+        Kinematic Viscosity = 0.000900901 m^2/s
+
+    Flow Information
+        Inlet Pressure = 745000 Pa
+        Outlet Pressure = 97000 Pa
+
+    Pipe Information
+        Material = Glass
+        Length = 40.000000 m
+        Angle = -15.000000 degrees
+        Shape = Circle
+            Diameter = 0.050000
+            Hydraulic Diameter = 0.050000
+
+Output Values: 
+
+    Head Loss = 84.765244 m
+    Flow Rate = 0.003538 m^3/s
+    Avg. Flow Speed = 0.090107 m/s
+    Reynolds Number = 5.000922
+    The flow is laminar
+Solving for Flow Rate
+
+
+
+Input Parameters:
+
+    Fluid Information
+        Oil
+        Density = 888 kg/m^3
+        Dynamic Viscosity = 0.8 Pa-s
+        Kinematic Viscosity = 0.000900901 m^2/s
+
+    Flow Information
+        Inlet Pressure = 745000 Pa
+        Outlet Pressure = 97000 Pa
+
+    Pipe Information
+        Material = Glass
+        Length = 40.000000 m
+        Angle = -15.000000 degrees
+        Shape = Circle
+            Diameter = 0.050000
+            Hydraulic Diameter = 0.050000
+
+Output Values: 
+
+    Head Loss = 84.765244 m
+    Flow Rate = 0.003538 m^3/s
+    Avg. Flow Speed = 1.802134 m/s
+    Reynolds Number = 100.018438
+    The flow is laminar
